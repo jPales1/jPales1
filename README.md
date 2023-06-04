@@ -17,7 +17,8 @@
   
 </div>
 
-<br>
+##
+
 - 🔭 Tenho experiência HTML, CSS e JS.
 - 🌱 Atualmente estou aprendendo PHP.
 - 😄 Pronomes: Ele/Dele
