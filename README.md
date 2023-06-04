@@ -13,6 +13,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <br>
   <img align="right" alt="jPales-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/c1cd7b8b67f6c9c1b5566dec4e298dad.gif?width=676&height=676">
   
 </div>
