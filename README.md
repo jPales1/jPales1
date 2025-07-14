@@ -6,7 +6,7 @@
 
 <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif width="20"> Undergraduate Student in Information Systems at IFBA - Vitória da Conquista<br>
 <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif width="20"> Passionate about web developing, music and games <br>
-<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif width="20"> Currently learning JavaScript, NodeJS and TypeScript <br><br>
+<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif width="20"> Currently learning Next.js, Node.js and TypeScript <br><br>
 
 ##
 
@@ -14,7 +14,7 @@
   
   <a href="https://instagram.com/jpales_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaopedropales@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-pedro-pales-349a91231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jpales/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   </div>
 
@@ -23,9 +23,9 @@
 ```diff
 
 + Living in Vitória da Conquista, Brazil 🇧🇷 
-- 20 years old
+- 22 years old
 ! Always studying some technology
-# Interested in web developing and Java
+# Interested in web developing
 ```
 
 ### 🛠 **My Tools:**
