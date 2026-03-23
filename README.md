@@ -1,12 +1,22 @@
-<h1 align="center"> Hello! I'm João Pedro Pales!</h1> 
+<h1 align="center">João Pedro Pales</h1>
+
+<p align="center">
+Fullstack Developer focused on building scalable web applications with Next.js and Node.js!
+</p>
+
+#
+
+## 🚀 Featured Projects
+- 🔗 [Sistema de Análise em Saúde Integrada](https://sasi.net.br)
+  → Sistema web para gestão de saúde (React + Python)
 
 #
 
 <img align="right" alt="jPales-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/c1cd7b8b67f6c9c1b5566dec4e298dad.gif?width=676&height=676">
 
-<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif width="20"> Undergraduate Student in Information Systems at IFBA - Vitória da Conquista<br>
-<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif width="20"> Passionate about web developing, music and games <br>
-<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif width="20"> Currently learning Next.js, Node.js and TypeScript <br><br>
+<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif width="20"> Undergraduate Student in Information Systems at IFBA;<br>
+<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif width="20"> Passionate about web development, music and games;<br>
+<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif width="20"> Currently learning Next.js, Node.js and TypeScript. <br><br>
 
 ##
 
@@ -20,39 +30,26 @@
 
 ### **🧐 About:**
 
-```diff
+💻 Fullstack developer in training with real experience in web projects;
 
-+ Living in Vitória da Conquista, Brazil 🇧🇷 
-- 22 years old
-! Always studying some technology
-# Interested in web developing
-```
+🚀 Focused on React, Node.js and building scalable systems;
+
+📈 Experience with landing pages, APIs and automation.
 
 ### 🛠 **My Tools:**
 
 <div align="center">
   
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
+![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
 
-![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361) 
-![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=FFFFFF&color=7A86B8)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/npm-6DA55F?style=for-the-badge&logo=npm&logoColor=white&color=000)
-![Markdown](https://img.shields.io/badge/markdown-C.svg?style=for-the-badge&logo=markdown&color=000)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
 </div>
 
 <p>
